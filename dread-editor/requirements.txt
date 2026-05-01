@@ -1,0 +1,9 @@
+construct==2.10.70
+glfw==2.10.0
+imgui==2.0.0
+mercury-engine-data-structures==0.25.0
+py-tegra-swizzle==0.4.1
+pyopengl==3.1.10
+randovania-lupa==2.0.4
+zstandard==0.25.0
+zstd==1.5.7.3
